@@ -1,7 +1,7 @@
 README:
 
-EIP patterns: Message Channel, Point to Point Channel (not Publish-Subscribe), Message Translator, 
-Content Enricher, possibly others
+EIP patterns: Message Channel, Point to Point Channel, Message Translator, 
+Content Enricher
 
 Singleton:
 Stocklist, Stock(pseudo-singleton)
